@@ -78,7 +78,7 @@ Health_Veda/
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by jk
 - Based on Ayurvedic principles and teachings
 
 ## License
