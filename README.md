@@ -23,17 +23,9 @@
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Quiz Result | Dosha Info |
-|-----------|-------------|------------|
-| ![Home](./screenshots/Home.png) | ![Result](./screenshots/Dosha%20Result.png) | ![About](./screenshots/About.png) |
-
----
-
 ## ⚙️ How to Run Locally
 
 1. Install **XAMPP**
 2. Clone this repo into `htdocs`:
    ```bash
-   git clone https://github.com/your-username/health-veda.git
+   git clone (https://github.com/JAY-KARMUR/Health-Veda.git)
